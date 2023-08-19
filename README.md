@@ -1,3 +1,5 @@
-# Credit fraud detection
+# Credit fraud detection: an exercise
 
-My take on the problem of fraud detection using a benchmarking dataset from Kaggle.
+Exercício ilustrativo sobre classificação binária no contexto de fraude em cartão de crédito, utilizando uma base modificada com Kaggle.
+
+ESte exercício foi preparado para a turma de Ago/2023 da disciplina Visão de Processo de Análise, da Pós-Graduação do CESAR.
