@@ -8,3 +8,4 @@ xgboost==1.6.2
 category_encoders==2.6.2
 scikit_optimize==0.9.0
 lightgbm==4.0.0
+shap==0.42.1
